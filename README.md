@@ -1,16 +1,16 @@
-## Hi there 👋
+# Abduh Sheikh
 
-<!--
-**AbduhSdev/AbduhSdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18. Building AI-powered robots from scratch.
 
-Here are some ideas to get you started:
+**What I'm building (March → June 2026):**
+1.  CyberArm - a robot arm controlled by natural language, running locally
+2.  CyberHuman-01 - a humanoid that reads sensor data and makes decisions via local LLM
+3.  Multi-agent system - two AI brains competing in a shared simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python . PyBullet . Webots . Ollama . zero cloud, zero API fees
+
+**Follow the build:**
+- X: @AbduhSdev(https://x.com/AbduhSdev)
+- YouTube: [coming soon]
+
+*Building in public. No money. No degree. Just shipped work.*
