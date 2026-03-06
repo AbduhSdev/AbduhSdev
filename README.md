@@ -10,7 +10,7 @@
 **Stack:** Python . PyBullet . Webots . Ollama . zero cloud, zero API fees
 
 **Follow the build:**
-- X: @AbduhSdev(https://x.com/AbduhSdev)
+- X: @AbduhSdev (https://x.com/abduhsdev)
 - YouTube: [coming soon]
 
 *Building in public. No money. No degree. Just shipped work.*
